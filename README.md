@@ -38,54 +38,7 @@
 		Also because the original game-texture says: "Sorry, this machine will NEVER work", so i thought: lets keep it in lore :P (nice excuse huh? haha)
 	  - When a player puts a vehicle (which doesn't automatically despawns) infront of the Metro, the Metro will wait there till the
 		vehicle is removed for eternity.
-	  
-	Questions I've already got from our server member/crew while we where testing this script:
-	  - Q: Can you make it so you can drive the Freight or Metro?
-	  - A: Yes, I can.
-	  
-	  - Q: WILL you make it so we can drive either of them?
-	  - A: Already done it, Let's test it :P
-	  
-	  - Q: (Player on the other side while i'm driving the train:) Woaha, why the f*ck is my train tripping so hard?
-	  - A: Well mine isn't, Maybe it's because i'm driving backwards but YOUR game (engine) isn't expecting it.
-	  
-	  - Q: So you have now (permanently) removed the feature to drive the trains?
-	  - A: Yes, I have. And I have even DELETED THE CODE, so I will NOT remake it, since it's not stable enough.
-	  
-	  Well that's about the 'main question' I expect to show up (since nearly everyone whom tested it did so to)
-	  So my basic answer is: NOPE I will note make it like that sorry.
-	  Maybe there are others whom have managed to do it, and did made a syncing system (server sided or so), I haven't
-	  and I won't, Sorry. Most of my scripts and server are client-sided with minimal network traffic (via scripting),
-	  only statistics, financials and owned matterials (like houses, cars or items) are server sided to prevent cheating.
-	  And since we won't need the train or metro driver missions I can't 'afford' to put to much time in developing something
-	  stable and thoroughly tested while I'm not going to use it anyway ;)
-	  
-	Other Possible Questions:
-	  - Q: Can I use this on my server?
-	  - A: Sure you can that's why I've uploaded it :)
-	  
-	  - Q: Can you please help me add or make my money/banking system?
-	  - A: No, sorry. I'm VERY busy with me job and other projects, I decided to share my code's_m_m_lsmetro_01
-		   to public for others to use, possibly adapt and for others to learn from them (hence the massive commenting!).
-		   I have learned it the same way years ago: Looking at other people's codes and trying what would change things or
-		   make it do what I wanted it to do.
-	   
-	  - Q: So you're basically saying I "just need to learn" to script/program?
-	  - A: YES, if you would like to run servers and games like this, and thus use mods, it's DEFINITLY a MUST if you can,
-		   it might look hard in the beginning, but trust me: You will be thankful if you learn it yourself :)
-		   
-	  - Q: But you also stated that I can adapt your code right?
-	  - A: Sure, adapt, improve, or even 'strip(remove) stuff from it' to make it suit your needs
-		   NOTE: Please do not just 'destroy the code' by randomly doing stuff and then posting stuff like:
-		   'I "changed" this, and now your  code doesn't work anymore'. If that happens I suggest you keep trying
-		   till it DOES what you need, investigate about the Native codes, look on other sites for resources and
-		   information, you can ofcourse ask questions, no problem. Just keep in mind that I'm not going to (not even
-		   able to due to my schedule IF I wanted to)) script all kinds of things for everyone randomly ;) :)
-	  
-	  - Q: One more question though: If I can adapt your code, am I also allowed to re-upload it?
-	  - A: Yes you are! :) BUT please do give credits to me and the original creator on whom's idea this
-		   scripted was based and inspired on. (AKA: It's NOT allowed to reupload/publish without credits where due)
-	  
+
 	General adivce (applies to ALL uploading coders):
 	If this script/addon doesn't do what you wanted it to do, if you think it's "sh*tty" etc, that's all fine, but
 	just keep that to yourself and find another one that suits your needs (or even better: Make it yourself) ;)
